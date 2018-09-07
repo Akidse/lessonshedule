@@ -1,0 +1,24 @@
+{
+  "name": "lessonshedule",
+  "version": "1.0.0",
+  "description": "Shedule of lessons with gui for NTU group KN-1-1-tech",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akidse/lessonshedule.git"
+  },
+  "author": "AkidSe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akidse/lessonshedule/issues"
+  },
+  "homepage": "https://github.com/Akidse/lessonshedule#readme",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "mongoose": "^5.2.13",
+    "npm": "^6.4.1"
+  }
+}

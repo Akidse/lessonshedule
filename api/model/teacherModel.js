@@ -2,11 +2,11 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 var teacherSchema = new Schema({
-	name: {
+	first_name: {
 		type: String,
 		required: "Name cannot be empty"
 	},
-	third_name: {
+	second_name: {
 		type: String,
 		required: "Third name cannot be empty"
 	},
